@@ -1,0 +1,29 @@
+.cardContainer{
+    /* border:1px solid peru; */
+    width: 40%;
+  align-items: center;
+ height: 120px;
+    margin: 20px;
+    display: flex;
+    box-shadow: 0 4px 8px rgba(210, 105, 30, 0.5);
+}
+
+.itemImage{
+    width: 30%;
+    height:100%;
+    /* border:1px solid rgb(89, 63, 205); */
+    
+}
+
+.itemDesc{
+    /* border:1px solid rgb(63, 205, 141); */
+    width: 70%;
+    margin: 5px;
+    padding: 5px 0px;
+    
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+}
